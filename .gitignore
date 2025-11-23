@@ -1,0 +1,16 @@
+# --- For Python Projects ---
+__pycache__/
+venv/
+
+# --- For Java or C Projects ---
+*.class
+*.exe
+
+# --- For Web Projects (HTML/CSS) ---
+node_modules/
+
+# --- For Your Operating System ---
+Thumbs.db
+
+# --- For VS Code Editor ---
+.vscode/
